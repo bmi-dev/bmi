@@ -35,4 +35,4 @@ app.get('/', async (req, res) => {
   });
 });
 
-app.listen(7272);
+app.listen(process.env.PORT || 7272);
