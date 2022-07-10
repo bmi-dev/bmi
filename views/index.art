@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>bmi.dev</title>
+</head>
+<body>
+  <h1>Hello There, Traveler</h1>
+  <p>
+    This project contains a personal work-in-progress "content delivery" server. Resources used for pet projects will
+    be served and updated here over time. The final vision of this project is completely undecided. If anything,
+    consider it a silly toy server
+  </p>
+  <h4>This is currently a work in progress</h4>
+  <p>
+    Server Version: {{ version }}
+  </p>
+</body>
+</html>
+

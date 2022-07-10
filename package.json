@@ -1,0 +1,27 @@
+{
+  "name": "bmi",
+  "version": "0.1.0",
+  "description": "personal content delivery server",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmi-dev/bmi.git"
+  },
+  "author": "senektra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bmi-dev/bmi/issues"
+  },
+  "homepage": "https://github.com/bmi-dev/bmi#readme",
+  "dependencies": {
+    "art-template": "^4.13.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "express-art-template": "^1.0.1",
+    "helmet": "^5.1.0"
+  }
+}
